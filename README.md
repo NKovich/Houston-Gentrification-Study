@@ -11,6 +11,7 @@ We focused on the inner/610 loop of Houston, compling a list of nineteen (19) zi
 **Data Summary**
 
 
+
 **Visualizations**
 
 *Household income trends over timespan of study for all 19 zip codes.*
@@ -42,3 +43,6 @@ We focused on the inner/610 loop of Houston, compling a list of nineteen (19) zi
 *Race Counts by Zip Codes: 2017*
 <img width="749" alt="Screen Shot 2019-07-29 at 6 11 29 PM" src="https://user-images.githubusercontent.com/47992414/62089495-cf706480-b22e-11e9-8af4-5566a6d5f609.png">
 
+
+*Race Counts Comparison 2012 & 2017: Select Zip Codes*
+![alt text](/Images/RaceDemographics1217.png)
