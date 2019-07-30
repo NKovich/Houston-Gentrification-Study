@@ -2,13 +2,13 @@
 
 
 **Description**
+Our project is to uncover indicators of Gentrification in the Houston area over a six-year timespan. We examined the relationships between median age, median household income, population count and racial demographics.
 
-An analysis of US Census Data to show if key factors were significant in determining gentrification occurring in the city of Houston from 2012-2017. 
-
-We focused on the inner/610 loop of Houston, compling a list of nineteen (19) zip codes to research as these areas are typically catergorized as low-income (by national income standards). We then narrowed down our focus to four specific zip codes (77003, 77007, 77008, and 77026) as these areas showed the greatest percent change from 2012 to 2017. Additonally 77007 and 77008 had the greatest increase in population change, whereas 70003 and 77026 had the greatest decrease in population change.
+We performed an analysis of US Census Data to show if key factors were significant in determining gentrification occurring in Houston from 2012-2017. 
 
 
 **Data Summary**
+We focused on the inner/610 loop of Houston, compiling a list of nineteen (19) zip codes to research. We then narrowed down our focus to four specific zip codes (77003, 77007, 77008, and 77026) as these areas showed the greatest percent change from 2012 to 2017. Additonally, 77007 and 77008 had the greatest increase in population change, whereas 70003 and 77026 had the greatest decrease in population change.
 
 
 
