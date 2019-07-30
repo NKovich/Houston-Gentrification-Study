@@ -1,4 +1,4 @@
-# Getrification Study of Houston
+# Gentrification Study of Houston
 
 
 **Description**
